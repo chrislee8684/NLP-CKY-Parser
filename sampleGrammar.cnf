@@ -98,3 +98,5 @@ Noun --> flight
 Noun --> flights
 Noun --> meal
 Noun --> money
+S --> S S
+S --> w
